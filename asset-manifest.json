@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.80b155cb.chunk.css",
+    "main.js": "/static/js/main.16d31500.chunk.js",
+    "main.js.map": "/static/js/main.16d31500.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fef41027.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fef41027.js.map",
+    "static/js/2.9d407d83.chunk.js": "/static/js/2.9d407d83.chunk.js",
+    "static/js/2.9d407d83.chunk.js.map": "/static/js/2.9d407d83.chunk.js.map",
+    "static/js/3.01f97b2d.chunk.js": "/static/js/3.01f97b2d.chunk.js",
+    "static/js/3.01f97b2d.chunk.js.map": "/static/js/3.01f97b2d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.80b155cb.chunk.css.map": "/static/css/main.80b155cb.chunk.css.map",
+    "static/js/2.9d407d83.chunk.js.LICENSE.txt": "/static/js/2.9d407d83.chunk.js.LICENSE.txt",
+    "static/js/3.01f97b2d.chunk.js.LICENSE.txt": "/static/js/3.01f97b2d.chunk.js.LICENSE.txt",
+    "static/media/attack.a3dfc39e.wav": "/static/media/attack.a3dfc39e.wav",
+    "static/media/crit.d7aa0535.wav": "/static/media/crit.d7aa0535.wav",
+    "static/media/crystal-cave-song.c6cc657d.mp3": "/static/media/crystal-cave-song.c6cc657d.mp3",
+    "static/media/goblin_attack.d9be07a5.wav": "/static/media/goblin_attack.d9be07a5.wav",
+    "static/media/goblin_death.7d1b8ece.wav": "/static/media/goblin_death.7d1b8ece.wav",
+    "static/media/goblin_pain.584fefc2.wav": "/static/media/goblin_pain.584fefc2.wav",
+    "static/media/lootBigGold.5d9d28bf.ogg": "/static/media/lootBigGold.5d9d28bf.ogg",
+    "static/media/lootSmallGold.6fe614b6.ogg": "/static/media/lootSmallGold.6fe614b6.ogg",
+    "static/media/miss.d3279d33.wav": "/static/media/miss.d3279d33.wav",
+    "static/media/no-hope.11d9baff.mp3": "/static/media/no-hope.11d9baff.mp3",
+    "static/media/rat_attack.7941f90a.ogg": "/static/media/rat_attack.7941f90a.ogg",
+    "static/media/rat_death.11af7280.ogg": "/static/media/rat_death.11af7280.ogg",
+    "static/media/rat_pain.b89a9e15.ogg": "/static/media/rat_pain.b89a9e15.ogg",
+    "static/media/roguelikeitems.1cd93c68.png": "/static/media/roguelikeitems.1cd93c68.png",
+    "static/media/stairs.79b1bf44.ogg": "/static/media/stairs.79b1bf44.ogg",
+    "static/media/App.css": "/static/media/ugly-terminal-8.6f6b0af3.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fef41027.js",
+    "static/js/2.9d407d83.chunk.js",
+    "static/css/main.80b155cb.chunk.css",
+    "static/js/main.16d31500.chunk.js"
+  ]
+}

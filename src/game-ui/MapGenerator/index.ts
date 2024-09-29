@@ -1,1 +1,0 @@
-export { MapGenerator } from './MapGenerator';
