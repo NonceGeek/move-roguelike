@@ -34,12 +34,12 @@ export const MapGenerator: React.FC<Props> = (props) => {
   const [selectedCreature, setSelectedCreature] = React.useState<CreatureType | null>(null);
   const [selectedEffect, setSelectedEffect] = React.useState<Effect | null>(null);
   const [currentSeed, setCurrentSeed] = React.useState('');
+  const [ifGhost, setIfGhost] = React.useState(true);
 
-  const searchParams = new URLSearchParams(window.location.search);
-  let ifGhost = searchParams.get('ifGhost') === 'true';
-  ifGhost = true;
-  // eslint-disable-next-line no-console
-  console.log('ifGhost * 2', ifGhost);
+  React.useEffect(() => {
+    const searchParams = new URLSearchParams(window.location.search);
+    setIfGhost(searchParams.get('ifGhost') === 'true');
+  }, []);
 
   const load = (seed: string) => {
     const rng = seedrandom(seed);
